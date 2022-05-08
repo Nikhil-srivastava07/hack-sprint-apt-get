@@ -1,7 +1,7 @@
 # hack-sprint-apt-get
 # Welcome to apt-get a hackathon where you can sharpen your skills and show case your project
 
-# format of the apt-get
+# format of apt-get
 
     1. You have to make an automation bot.
     2. whats an automation bot 
@@ -48,7 +48,7 @@
        12. Create new pull request
    
 
-   Some Links for your study
+#   Some Links for your study
     1.Discord bot link:
          https://www.digitaltrends.com/gaming/how-to-make-a-discord-bot/
     2.Instagram bot link:
