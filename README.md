@@ -36,7 +36,7 @@
    
        8. Code your bot
    
-       9. Make sure that the bot is working before pusing your code
+       9. Make sure that the bot is working before pushing your code
    
        10. Add your files to the staging area by using
             git add .
