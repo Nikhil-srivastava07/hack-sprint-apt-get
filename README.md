@@ -32,6 +32,7 @@
           2. Write how the bot working 
           3. Explain how your code works 
           4. Explain your most important function or file
+          5. Add screenshots of working bot
    
        8. Code your bot
    
