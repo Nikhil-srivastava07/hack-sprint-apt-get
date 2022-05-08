@@ -1,7 +1,7 @@
 # hack-sprint-apt-get
 # Welcome to apt-get a hackathon where you can sharpen your skills and show case your project
 
-# format of apt-get
+# format of  apt-get
 
     1. You have to make an automation bot.
     2. whats an automation bot 
@@ -17,35 +17,36 @@
 #     How to present your ideas to the jury
         
        1. First fork the repo of apt get
-       2. Link to the repo:                                             https://github.com/lincomarya/hack-sprint-apt-get
-       3. clone the repo by using this command:
+       2. Link to the repo:                                             
+        https://github.com/lincomarya/hack-sprint-apt-get
+       4. clone the repo by using this command:
             git clone <url of the forked repo>
    
-       4. Create a new branch with your name by using this command 
+       5. Create a new branch with your name by using this command 
            git checkout -b <your name>
        
-       5. Add a idea.md 
+       6. Add a idea.md 
    
-       6. In this you have to complete these points
+       7. In this you have to complete these points
           1. Explain your idea
           2. Write how the bot working 
           3. Explain how your code works 
           4. Explain your most important function or file
    
-       7. Code your bot
+       8. Code your bot
    
-       8. Make sure that the bot is working before pusing your code
+       9. Make sure that the bot is working before pusing your code
    
-       9. Add your files to the staging area by using
+       10. Add your files to the staging area by using
             git add .
    
-       10. Commit your code
+       11. Commit your code
              git commit -m <commit message> 
    
-       11. Push your code by using 
+       12. Push your code by using 
              git push -u origin <branch>
 
-       12. Create new pull request
+       13. Create new pull request
    
 
 #   Some Links for your study
