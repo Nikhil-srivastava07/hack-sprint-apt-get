@@ -36,7 +36,7 @@
    
        8. Code your bot
    
-       9. Make sure that the bot is working before pusing your code
+       9. Make sure that the bot is working before pushing your code
    
        10. Add your files to the staging area by using
             git add .
@@ -52,12 +52,12 @@
 
 #   Some Links for your study
     1.Discord bot link:
-         https://www.digitaltrends.com/gaming/how-to-make-a-discord-bot/
+         https://www.freecodecamp.org/news/create-a-discord-bot-with-python/
     2.Instagram bot link:
         https://rohanarun.medium.com/how-to-build-an-instagram-bot-farm-in-15-minutes-for-free-14468c844f7a
     3. Twitter bot link:
-       https://blog.hubspot.com/website/how-to-make-a-twitter-bot
+       https://developer.twitter.com/en/docs/tutorials/how-to-create-a-twitter-bot-with-twitter-api-v2
     4. Whatsapp bot link :
-       https://www.chatcompose.com/build-whatsapp.html
+       https://www.twilio.com/blog/build-a-whatsapp-chatbot-with-python-flask-and-twilio
     5. Telegram bot link:
        https://sendpulse.com/knowledge-base/chatbot/create-telegram-chatbot   
